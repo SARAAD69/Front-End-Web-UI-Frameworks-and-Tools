@@ -64,3 +64,11 @@ body {
 
 #loginButton {
   cursor: pointer; }
+
+#accordion a {
+  text-decoration: none;
+  cursor: pointer; }
+
+#accordion a:not([href]):not([class]) {
+  color: #007bff;
+  text-decoration: none; }

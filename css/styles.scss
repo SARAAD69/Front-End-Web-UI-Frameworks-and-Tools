@@ -91,4 +91,14 @@ body{
      cursor: pointer;
  }
 
- 
+#accordion {
+
+    a {
+        text-decoration: none;
+        cursor: pointer;
+    }
+    a:not([href]):not([class]) {
+        color: #007bff;
+        text-decoration: none;
+    }
+}
