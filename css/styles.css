@@ -61,3 +61,6 @@ body {
 
 .modal-body {
   background: #D1C4E9; }
+
+#loginButton {
+  cursor: pointer; }
