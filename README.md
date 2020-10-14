@@ -1,6 +1,8 @@
 # Front-End-Web-UI-Frameworks-and-Tools
 This project is a result of finishing "Front-End Web UI Frameworks and Tools: Bootstrap 4" course. Simple website created with usage of Bootstrap 4 and Node.js, Grunt, Gulp to test various ways of building website for deployment.
 
+Link to follow-up **Front End Development with React** project: https://github.com/SARAAD69/React 
+
 ## Description
 The project is an example website for restaurant which demonstrates how Bootstrap 4 can be used to adapt content into CSS Grid layout and how various Bootstrap 4 templates such as Media Object, Carousel, Card, Forms etc can be used to create appealing design of the website.
 It also contains examples of usage of supplementing JavaScript to create Popovers, Tooltips and other dynamic functionality for above mentioned elements.
